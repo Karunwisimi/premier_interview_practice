@@ -1,0 +1,15 @@
+DATA ANALYTICS – CANDIDATE ASSIGNMENT
+
+Use the supplied sales_transactions_raw.csv to produce a concise business performance analysis.
+
+The dataset is synthetic and contains deliberate data-quality issues. Do not silently ignore them.
+
+In your 15-minute session:
+- Profile the data and identify at least three quality issues.
+- Explain how you would clean or handle the issues, including duplicates, missing values, inconsistent categories, invalid values and date formats where encountered.
+- Demonstrate at least one analytical query, formula or transformation using SQL, Excel, Python or Power Query.
+- Calculate and explain a relevant business metric, such as net sales for completed orders.
+- Present at least one useful chart, table or dashboard visual.
+- State two evidence-based business insights or recommendations.
+
+You may use SQL, Power BI, Excel, Python or a combination. Explain assumptions clearly, especially how you treat cancelled and pending orders, discounts and duplicate transaction IDs.

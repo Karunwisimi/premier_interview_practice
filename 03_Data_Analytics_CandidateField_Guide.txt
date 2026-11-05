@@ -1,0 +1,18 @@
+DATA DICTIONARY – SALES TRANSACTIONS
+
+transaction_id: Transaction identifier. Duplicate identifiers have been deliberately included.
+transaction_date: Date of transaction; date formats may be inconsistent.
+customer: Customer or organization name; some values may be missing.
+region: Sales region; some values may be missing or inconsistently formatted.
+product: Product sold.
+quantity: Units sold; invalid values may be present.
+unit_price_ngn: Unit price in Nigerian naira; missing values may be present.
+discount_rate: Discount as a decimal (e.g., 0.10 means 10%); invalid values may be present.
+payment_method: Payment channel; category labels may be inconsistent.
+sales_rep: Sales representative; some values may be missing.
+order_status: Completed, Pending or Cancelled; category labels may be inconsistent.
+
+Suggested calculation for a valid completed order:
+net_sales = quantity * unit_price_ngn * (1 - discount_rate)
+
+This is a suggested definition, not a requirement. Candidates should state and justify their assumptions. Do not include cancelled or pending orders in completed-sales revenue unless explicitly explaining a separate metric.

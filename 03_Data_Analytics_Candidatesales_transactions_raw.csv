@@ -1,0 +1,81 @@
+﻿transaction_id,transaction_date,customer,region,product,quantity,unit_price_ngn,discount_rate,payment_method,sales_rep,order_status
+TXN-0001,2026-09-08,Greenfield Hub,Lagos,Monitor,6,185000,0.1,Transfer,Chidi,Completed
+TXN-0002,2026-08-06,Kora Stores,Abuja,Mouse,3,15000,0,Card,Ada,Completed
+TXN-0003,2026-09-25,Mira Ventures,Ibadan,Keyboard,8,28000,0.15,Transfer,Ada,Pending
+TXN-0004,2026-08-13,Apex Consult,Kano,Mouse,8,15000,0,Cash,Chidi,Pending
+TXN-0005,2026-09-10,Sunrise Clinic,Lagos,Router,3,95000,0,Transfer,Ada,Completed
+TXN-0006,2026-08-31,Kora Stores,,Router,4,95000,0,Card,Ada,Completed
+TXN-0007,2026-07-10,BluePeak Ltd,Kano,Mouse,7,15000,0.1,Transfer,Bola,Completed
+TXN-0008,2026-07-11,Apex Consult,Lagos,Mouse,6,15000,0,Cash,Dami,Completed
+TXN-0009,2026-07-29,Greenfield Hub,Kano,Keyboard,2,28000,0.05,Card,Emeka,Completed
+TXN-0010,2026-09-05,Northstar School,Port Harcourt,Router,1,95000,0.05,Transfer,Ada,Cancelled
+TXN-0011,2026-08-17,BluePeak Ltd,Port Harcourt,Mouse,8,15000,0,Card,Ada,Completed
+TXN-0012,2026-09-28,Mira Ventures,Port Harcourt,Keyboard,7,28000,0,Cash,Bola,Completed
+TXN-0013,07/19/2026,Kora Stores,Abuja,Router,3,95000,0,Cash,Chidi,Completed
+TXN-0014,2026-08-22,Apex Consult,Port Harcourt,Router,3,95000,0.05,Cash,Dami,Completed
+TXN-0015,2026-09-22,Apex Consult,Abuja,Keyboard,5,28000,0,Transfer,Chidi,Cancelled
+TXN-0016,2026-08-10,Northstar School,Ibadan,External SSD,5,78000,0,Transfer,Chidi,Completed
+TXN-0017,2026-07-23,BluePeak Ltd,Lagos,Laptop,1,650000,0.1,Card,Emeka,Completed
+TXN-0018,2026-08-01,Kora Stores,Lagos,Laptop,4,650000,0,Cash,Ada,Completed
+TXN-0019,2026-09-19,Apex Consult,Kano,External SSD,three,78000,0.1,Card,Dami,Completed
+TXN-0020,2026-07-26,BluePeak Ltd,Port Harcourt,Router,4,95000,0.15,Cash,Ada,Completed
+TXN-0021,2026-07-21,Kora Stores,Lagos,External SSD,4,78000,0,Card,Chidi,Cancelled
+TXN-0022,2026-07-31,Sunrise Clinic,Ibadan,Keyboard,4,28000,0,Cash,Dami,Completed
+TXN-0023,2026-08-16,Mira Ventures,Ibadan,Router,4,95000,0,Card,Bola,Pending
+TXN-0024,2026-08-14,Apex Consult,Lagos,Laptop,2,650000,0,Card,Ada,Completed
+TXN-0025,2026-07-02,Greenfield Hub,Kano,Laptop,5,,0,Cash,Dami,Completed
+TXN-0026,2026-09-29,Sunrise Clinic,Port Harcourt,Laptop,3,650000,0.05,Transfer,Dami,Pending
+TXN-0027,2026-08-31,Kora Stores,Port Harcourt,External SSD,5,78000,0,Cash,Bola,Cancelled
+TXN-0028,2026-07-16,BluePeak Ltd,Port Harcourt,Monitor,1,185000,0,Card,Ada,Cancelled
+TXN-0029,2026-07-21,Mira Ventures,Ibadan,Router,8,95000,0.1,Cash,Emeka,Completed
+TXN-0030,2026-07-09,BluePeak Ltd,Abuja,Router,7,95000,0,Card,Chidi,Pending
+TXN-0031,2026-07-04,Sunrise Clinic,Lagos,Laptop,1,650000,0.1,Card,Ada,Pending
+TXN-0032,2026-07-26,Mira Ventures,Abuja,Laptop,4,650000,1.25,Transfer,Chidi,Cancelled
+TXN-0033,2026-09-12,Sunrise Clinic,Ibadan,Monitor,4,185000,0.15,Card,Ada,Pending
+TXN-0034,2026-09-02,Apex Consult,Abuja,Mouse,2,15000,0,Card,Bola,Completed
+TXN-0035,2026-07-23,Mira Ventures,Port Harcourt,Keyboard,6,28000,0,Cash,Dami,Completed
+TXN-0036,2026-09-04,Kora Stores,Kano,Keyboard,8,28000,0,Cash,Dami,Completed
+TXN-0037,2026-09-16,Apex Consult,Abuja,Monitor,8,185000,0,Transfer,Ada,Completed
+TXN-0038,2026-08-12,Mira Ventures,Ibadan,Router,3,95000,0.15,Card,Ada,Completed
+TXN-0039,2026-08-11,BluePeak Ltd,Lagos ,Monitor,3,185000,0,Transfer,Emeka,Completed
+TXN-0040,2026-07-22,Northstar School,Kano,Mouse,3,15000,0.15,Card,Ada,Completed
+TXN-0041,2026-09-23,Apex Consult,Kano,Laptop,6,650000,0,Cash,Emeka,Cancelled
+TXN-0042,2026-08-22,Sunrise Clinic,Abuja,Router,2,95000,0.05,Cash,Bola,Completed
+TXN-0043,2026-07-18,Mira Ventures,Kano,Router,3,95000,0.05,Transfer,Bola,Completed
+TXN-0044,2026-07-25,Greenfield Hub,Ibadan,Keyboard,1,28000,0,Card,Bola,Completed
+TXN-0045,2026-09-22,Northstar School,Port Harcourt,Router,8,95000,0,Cash,Dami,complete
+TXN-0046,2026-07-12,Sunrise Clinic,Lagos,Mouse,5,15000,0.1,Card,Ada,Completed
+TXN-0047,2026-07-20,Sunrise Clinic,Abuja,Laptop,4,650000,0.05,Cash,Dami,Completed
+TXN-0048,2026-09-01,Kora Stores,Abuja,External SSD,1,78000,0,Cash,Ada,Completed
+TXN-0049,2026-08-30,Northstar School,Port Harcourt,Router,7,95000,0,Card,Bola,Completed
+TXN-0050,2026-07-12,Northstar School,Ibadan,External SSD,2,78000,0.15,Card,Chidi,Completed
+TXN-0051,2026-07-22,Northstar School,Kano,Monitor,6,185000,0.05,Transfer,Chidi,Completed
+TXN-0052,2026-08-09,Northstar School,Lagos,Keyboard,-2,28000,0,Cash,Chidi,Completed
+TXN-0053,2026-09-16,Delta Works,Lagos,Keyboard,5,28000,0.15,Cash,Dami,Pending
+TXN-0054,2026-08-25,Northstar School,Lagos,Router,6,95000,0.05,Transfer,Chidi,Completed
+TXN-0055,2026-09-25,Northstar School,Abuja,Monitor,5,185000,0.1,Transfer,Chidi,Cancelled
+TXN-0056,2026-09-22,Greenfield Hub,Lagos,Monitor,2,185000,0.05,Cash,Chidi,Completed
+TXN-0057,2026-07-16,Delta Works,Ibadan,Router,4,95000,0.15,Transfer,Bola,Completed
+TXN-0058,2026-07-20,Kora Stores,Lagos,Router,7,95000,0,Cash,Ada,Completed
+TXN-0059,2026-07-29,Apex Consult,Port Harcourt,External SSD,7,78000,0.1,Cash,Emeka,Completed
+TXN-0060,2026-09-11,Northstar School,Abuja,Router,5,95000,0.15,Cash,Bola,Pending
+TXN-0061,2026-09-14,,Abuja,Router,5,95000,0.15,Cash,Ada,Cancelled
+TXN-0062,2026-07-16,Sunrise Clinic,Port Harcourt,Mouse,3,15000,0.15,Transfer,Ada,Pending
+TXN-0063,2026-09-06,Mira Ventures,Ibadan,Monitor,5,185000,0.15,Cash,Ada,Cancelled
+TXN-0064,2026-07-27,Kora Stores,Port Harcourt,Laptop,8,650000,0.15,Cash,Emeka,Completed
+TXN-0065,2026-08-04,Sunrise Clinic,Lagos,External SSD,4,78000,0.1,Cash,Dami,Completed
+TXN-0066,2026-08-02,Northstar School,Abuja,Monitor,4,185000,0.05,Card,Dami,Completed
+TXN-0067,2026-09-13,Apex Consult,Port Harcourt,Router,4,95000,0,Cash,Emeka,Completed
+TXN-0068,2026-07-17,Apex Consult,Ibadan,External SSD,7,78000,0.05,Transfer,Bola,Completed
+TXN-0069,2026-09-21,Kora Stores,Abuja,Laptop,4,650000,0,Card,Dami,Completed
+TXN-0070,2026-09-14,Apex Consult,Port Harcourt,Router,7,95000,0.15,Cash,Dami,Completed
+TXN-0071,2026-07-26,Mira Ventures,Ibadan,Router,7,95000,0,Bank Transfer,Chidi,Completed
+TXN-0072,2026-09-12,Northstar School,Ibadan,Keyboard,6,28000,0,Cash,Bola,Cancelled
+TXN-0073,2026-09-17,Mira Ventures,Kano,Router,1,95000,0.1,Card,Dami,Completed
+TXN-0074,2026-08-23,Northstar School,Ibadan,Keyboard,8,28000,0,Card,Ada,Completed
+TXN-0075,2026-07-03,Apex Consult,Ibadan,Keyboard,3,28000,0.15,Transfer,Bola,Completed
+TXN-0010,2026-09-05,Northstar School,Port Harcourt,Router,1,95000,0.05,Transfer,Ada,Cancelled
+TXN-0021,2026-07-21,Kora Stores,Lagos,External SSD,99,78000,0,Card,Chidi,Cancelled
+TXN-0078,2026-07-20,Delta Works,Ibadan,External SSD,7,78000,0,Transfer,Dami,Cancelled
+TXN-0079,2026-07-31,Greenfield Hub,Lagos,External SSD,3,78000,0.05,Cash,,Completed
+TXN-0080,2026-07-21,Sunrise Clinic,Abuja,Keyboard,5,28000,0.05,Cash,Ada,Cancelled
